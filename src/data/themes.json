@@ -467,6 +467,32 @@
           "minor_low": "#CCCCDA"
         }
       }
+    },
+    "purple": {
+      "name": "Purple",
+      "description": "Near-black indigo ground lit by violet arteries, with deep-blue water and mid-indigo blocks.",
+      "ui": {
+        "bg": "#0A0820",
+        "text": "#D5D4F6"
+      },
+      "map": {
+        "land": "#0A0820",
+        "landcover": "#0F0C30",
+        "water": "#0D0A33",
+        "waterway": "#0D0A33",
+        "parks": "#130F3D",
+        "buildings": "#2D1A80",
+        "aeroway": "#130F3D",
+        "rail": "#d5d4f6",
+        "roads": {
+          "major": "#A047FA",
+          "path": "#47226D",
+          "outline": "#543078",
+          "minor_high": "#6305C2",
+          "minor_mid": "#3D0377",
+          "minor_low": "#30075A"
+        }
+      }
     }
   }
 }
